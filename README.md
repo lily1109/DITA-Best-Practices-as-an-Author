@@ -1,2 +1,1 @@
-# smilemiley57.github.io
-You will learn the best practices in DITA.
+You will learn the best practices in DITA as an author.
