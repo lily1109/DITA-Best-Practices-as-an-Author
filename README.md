@@ -4,7 +4,7 @@
 
 # Change *Topic* to *Concept*
 
-1. Open the topic in DITA CMS.
+1. Open the topic in DITA CMS and lock it.
 
 2. Switch to the *Text* tab.
 
