@@ -1,5 +1,3 @@
-You will learn the best practices in DITA as an author.
-
 # Change *Topic* to *Concept*
 
 1. Open the topic in DITA CMS.
