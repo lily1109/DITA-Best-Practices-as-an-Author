@@ -1,6 +1,6 @@
 - Change *Topic* to *Concept*
 
-- Insert *Note* in Task Topic
+- Insert *Note* in a Task Topic
 
 # Change *Topic* to *Concept*
 
@@ -17,3 +17,11 @@
 6. Enter *Body* and replace with *Conbody*.
 
 7. Click **Replace all**.
+
+# Insert *Note* in a Task Topic
+
+1. Go to *Steps* tag.
+
+2. Click **Enter** and insert *Information* tag.
+
+3. In the *Information* tag, insert *Note* tag.
