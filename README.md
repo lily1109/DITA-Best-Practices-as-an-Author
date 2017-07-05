@@ -1,2 +1,2 @@
 # smilemiley57.github.io
-How to configure ESS on WeChat
+You will learn the best practices in DITA.
