@@ -1,3 +1,7 @@
+- Change *Topic* to *Concept*
+
+- Insert *Note* in Task Topic
+
 # Change *Topic* to *Concept*
 
 1. Open the topic in DITA CMS.
